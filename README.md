@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # Report Builder Pattern
 
 Java 17 implementation of the Builder creational design pattern adhering to Clean Code principles.
@@ -14,4 +13,3 @@ Java 17 implementation of the Builder creational design pattern adhering to Clea
 
 ## How to Run
 Open the project in IntelliJ IDEA (JDK 17) and run `Main.java`.
-EOF
